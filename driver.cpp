@@ -50,7 +50,7 @@ int main()
 	while( ! stkx.empty() )
 		cout << "Popping: " << stkx.pop() << endl;
 
-/*
+
 	///////////////////////////////////////
 
 	//////////Test code for queue ///////////
@@ -151,6 +151,6 @@ int main()
 	//Everyone but Ted.
 	while( ! qy.empty() )
 		cout << qy.dequeue() << endl;
-*/
+
 	return 0;
 }
